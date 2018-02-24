@@ -8,6 +8,6 @@ window.onload = function () {
                 ,"url":"https://khipu.com/payment/show/vzkeh1wk72ax"
                 ,"manual-url":"https://khipu.com/payment/manual/vzkeh1wk72ax"
                 ,"mobile-url":"khipu:///pos/vzkeh1wk72ax"
-                ,"ready-for-terminal":true}
+             ,"ready-for-terminal":true}
     })
 }
